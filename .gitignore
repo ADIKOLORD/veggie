@@ -1,0 +1,4 @@
+vn
+*.db
+*.sqlite3
+static
